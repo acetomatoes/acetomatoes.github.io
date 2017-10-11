@@ -36,14 +36,14 @@ avatar: "/img/bluelogo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: "/img/bluelogo.png"
+ title-img: "/img/alogo.png"
 
 # --- Background colour/image options --- #
 
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
- navbar-col: "#294A6A"
+# navbar-col: "#294A6A"
 # navbar-img: "/img/bgimage.png"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
