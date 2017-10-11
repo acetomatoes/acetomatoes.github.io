@@ -1,6 +1,7 @@
-# Acetomatoes
+# ACETOMATOES Homepage
 
-> *Copyright 2017 [Brandon Rude](http://acetomatoes.com)*
+![Alt text](img/alogo.png?raw=true "Logo")
 
-**Forthcoming homepage of Acetomatoes** 
+**Forthcoming homepage of ACETOMATOES** 
+
 stay tuned..
