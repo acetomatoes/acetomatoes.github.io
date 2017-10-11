@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-#title: ACETOMATOES
+title: ACETOMATOES
 
 # Short description of your site
 description: The Data Nerdery of Brandon Rude
@@ -36,7 +36,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
- title-img: "/img/alogo.png"
+# title-img: "/img/alogo.png"
 
 # --- Background colour/image options --- #
 
