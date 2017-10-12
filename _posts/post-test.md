@@ -5,11 +5,11 @@ subtitle: md test
 bigimg: /img/alogo.png
 ---
 
-##General Header
+## General Header
 
 Crazy 'bout a north side gal.
 
-###Code
+### Code
 
 ~~~ 
 # code chunk goes here
@@ -17,7 +17,7 @@ Crazy 'bout a north side gal.
 data = read.csv("data.csv")
 ~~~
 
-###Boxes
+### Boxes
 
 {: .box-note}
 **Note:** This is a notification box.
