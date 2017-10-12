@@ -17,5 +17,5 @@ Brooklyn, NY (I can't grow a decent mustache, though)
 
 If you're interested in getting involved in using open data for social impact check out [Data for Democracy](https://datafordemocracy.org/)
 
-![alt text](https://data4democracy.github.io/datafordemocracy.org/images/data-dem-logo-stacked-grey.png "Data for Democracy")
+[![alt text](https://data4democracy.github.io/datafordemocracy.org/images/data-dem-logo-stacked-grey.png "Data for Democracy")](https://datafordemocracy.org/)
 
