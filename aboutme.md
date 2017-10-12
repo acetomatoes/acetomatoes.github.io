@@ -10,7 +10,7 @@ In a nutshell:
 - Book lover 
 - Former bartender
 - Currently marketing analytics
-- Columbia University graduate in neuroscience and statistics
+- Columbia University graduate in Neuroscience and Statistics
 
 Brooklyn, NY (I can't grow a decent mustache, though)
 
