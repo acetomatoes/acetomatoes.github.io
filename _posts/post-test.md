@@ -17,6 +17,13 @@ Crazy 'bout a north side gal.
 data = read.csv("data.csv")
 ~~~
 
+```r
+data <- read.csv("data.csv")
+for (i in 1:10) {
+print(i)
+}
+```
+
 ### Boxes
 
 {: .box-note}
