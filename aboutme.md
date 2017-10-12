@@ -1,15 +1,21 @@
 ---
 layout: page
-title: About me
+title: About Me
 subtitle: The Basics
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+In a nutshell:
 
-- I cannot grow a decent mustache
+-General Nerdsmith
+-R enthusiast 
+-Book lover 
+-Former bartender
+-Currently marketing analytics
+-Columbia University graduate in neuroscience and statistics.
+
+
+Brooklyn, NY
+- I cannot grow a decent mustache, though
 
 What else do you need?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
