@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: ACETOMATOES
+# title: ACETOMATOES
 
 # Short description of your site
 description: The Data Nerdery of Brandon Rude
@@ -24,10 +24,10 @@ description: The Data Nerdery of Brandon Rude
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  Data Resources:
+    - Open Data Institute: "https://theodi.org/"
+    - data.world: "https://data.world/"
+    - US Gov Open Data: "https://www.data.gov/"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -36,7 +36,7 @@ avatar: "/img/bluelogo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: "/img/alogo.png"
+title-img: "/img/alogo.png"
 
 # --- Background colour/image options --- #
 
