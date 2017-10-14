@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Let's Get Shiny"
-bigimg: shiny-400x464.png
+bigimg: img/shiny-400x464.png
 ---
 
 Stay tuned for the launch of **Shiny Tomatoes**, a gallery of Shiny apps that I've been working on.
