@@ -12,8 +12,8 @@ In a nutshell:
 - Former bartender
 - Currently marketing analytics
 - Columbia University graduate in Neuroscience and Statistics
-
-Brooklyn, NY (I can't grow a decent mustache, though)
+- Brooklyn, NY (I can't grow a decent mustache, though)
+- If you get the ace tomato reference we could probably be best friends
 
 If you're interested in getting involved in using open data for social impact check out [Data for Democracy](https://datafordemocracy.org/)
 
