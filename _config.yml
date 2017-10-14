@@ -24,7 +24,7 @@ description: The Data Nerdery of Brandon Rude
 # List of links in the navigation bar
 navbar-links:
   About: "aboutme"
-  Shiny Tomatoes: ""
+  Shiny Tomatoes: "shiny-tomatoes"
   Data Resources:
     - Open Data Institute: "https://theodi.org/"
     - data.world: "https://data.world/"
