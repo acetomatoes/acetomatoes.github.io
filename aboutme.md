@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About
 subtitle: "I'm with the Ace Tomato Company"
 ---
 <a href><img src="img/bpic.jpg" align="center" width="100" ></a>
@@ -20,3 +20,6 @@ If you're interested in getting involved in using open data for social impact ch
 
 [![alt text](https://data4democracy.github.io/datafordemocracy.org/images/data-dem-logo-stacked-grey.png "Data for Democracy")](https://datafordemocracy.org/)
 
+Thanks for stopping by. Send me an email with any questions, comments, or even any open data project ideas.
+
+>My fellow nerds and I will retire to the nerdery with our calculators. – Tommy Boy (1995)
