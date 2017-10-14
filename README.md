@@ -2,4 +2,4 @@
 
 **Forthcoming homepage of ACETOMATOES** 
 
-stay tuned..
+Site utilizes the [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll) theme created by Dean Attali.
