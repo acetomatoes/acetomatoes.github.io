@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title: "Let's Get Shiny"
 bigimg: shiny-400x464.png
 ---
