@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: The Basics
+subtitle: "I'm with the Ace Tomato Company"
 ---
 
 In a nutshell:
