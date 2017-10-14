@@ -3,7 +3,6 @@ layout: page
 title: About
 subtitle: "I'm with the Ace Tomato Company"
 ---
-![it me](img/bpic.jpg)
 
 In a nutshell:
 - General Nerdsmith
