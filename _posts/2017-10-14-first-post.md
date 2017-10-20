@@ -2,6 +2,7 @@
 layout: post
 title: Back in action
 image: /img/hello_world.jpeg
+comments: true
 tags: [random, exciting-stuff]
 ---
 
