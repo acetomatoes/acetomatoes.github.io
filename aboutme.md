@@ -9,7 +9,7 @@ In a nutshell:
 - R enthusiast 
 - Open Data miner
 - Book lover 
-- Work: marketing analytics
+- Work: analytics consulting
 - Columbia University graduate in Neuroscience and Statistics
 - Brooklyn, NY (I can't grow a decent mustache, though)
 - If you get the ace tomato reference we could probably be best friends
