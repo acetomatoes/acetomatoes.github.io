@@ -16,7 +16,7 @@ In a nutshell:
 
 Thanks for stopping by. Send me an email with any questions, comments, or even any open data project ideas.
 
-If you're interested in getting involved in using open data for social impact check out [Data for Democracy](https://datafordemocracy.org/) and data.world for collaborative open data projects.
+If you're interested in getting involved in using open data for social impact check out [Data for Democracy](https://datafordemocracy.org/) and [data.world](https://data.world) for collaborative open data projects.
 
 
 ![data.world](https://assets.data.world/assets/logo-full.5432118c2466c4b685e7cd5028850e02.svg)
