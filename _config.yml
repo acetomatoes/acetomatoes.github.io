@@ -17,7 +17,7 @@ baseurl: ""
 title: ACETOMATOES
 
 # Short description of your site
-description: The Data Nerdery of Brandon Rude
+description: Brandon Rude's Data Nerdery
 
 # --- Navigation bar options --- #
 
@@ -29,7 +29,7 @@ navbar-links:
     - Open Data Institute: "https://theodi.org/"
     - data.world: "https://data.world/"
     - US Gov Open Data: "https://www.data.gov/"
-  
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
