@@ -2,7 +2,7 @@
 layout: post
 title: Back in action
 image: /img/hello_world.jpeg
-bigimg: /img/home-bg.jpeg
+bigimg: /img/home-bg.jpg
 tags: [random, exciting-stuff]
 ---
 
