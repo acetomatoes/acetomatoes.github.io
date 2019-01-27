@@ -3,7 +3,7 @@ layout: page
 title: About
 subtitle: "I'm with the Ace Tomato Company"
 ---
-<link href="fontawesome-free/css/all.min.css" rel="stylesheet"></link>
+<link href="fontawesome-free/css/all.min.css" rel="stylesheet">
 
 In a nutshell:
 - General Nerdsmith
