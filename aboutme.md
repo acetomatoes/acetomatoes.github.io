@@ -17,6 +17,8 @@ In a nutshell:
 
 Languages and tools I like and use:
 
+![alt text](fontawesome-free/svgs/brands/r-project.svg)
+
 <ul class="list-inline dev-icons">
   <li class="list-inline-item">
     <i class="fab fa-r-project"></i>
