@@ -17,8 +17,8 @@ In a nutshell:
 
 Languages and tools I like and use:
 
-<img src="fontawesome-free/svgs/brands/r-project.svg" height="50">
-<img src="fontawesome-free/svgs/brands/html5.svg" height="50">
+<img src="/fontawesome-free/svgs/brands/r-project.svg" height="50">
+<img src="/fontawesome-free/svgs/brands/html5.svg" height="50">
 
 If you're interested in getting involved in using open data for social impact check out [Data for Democracy](https://datafordemocracy.org/)
 
