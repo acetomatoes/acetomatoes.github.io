@@ -17,28 +17,8 @@ In a nutshell:
 
 Languages and tools I like and use:
 
-![alt text](fontawesome-free/svgs/brands/r-project.svg)
-
-<ul class="list-inline dev-icons">
-  <li class="list-inline-item">
-    <i class="fab fa-r-project"></i>
-  </li>
-  <li class="list-inline-item">
-    <i class="fab fa-js-square"></i>
-  </li>
-  <li class="list-inline-item">
-    <i class="fab fa-html5"></i>
-  </li>
-  <li class="list-inline-item">
-    <i class="fab fa-css3-alt"></i>
-  </li>
-  <li class="list-inline-item">
-    <i class="fab fa-digital-ocean"></i>
-  </li>
-  <li class="list-inline-item">
-    <i class="fab fa-stack-overflow"></i>
-  </li>
-</ul>
+<img src="fontawesome-free/svgs/brands/r-project.svg" height="50")
+<img src="fontawesome-free/svgs/brands/html5.svg" height="50")
 
 If you're interested in getting involved in using open data for social impact check out [Data for Democracy](https://datafordemocracy.org/)
 
