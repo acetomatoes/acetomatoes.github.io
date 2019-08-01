@@ -10,8 +10,8 @@ In a nutshell:
 - Open Data miner
 - Book lover
 - Work: analytics consulting
-- Columbia University graduate in Neuroscience and Statistics
-- Brooklyn, NY
+- Education: Columbia University, Neuroscience and Statistics
+- Live: Brooklyn, NY
 - If you get the ace tomato reference we could probably be best friends
 
 If you're interested in getting involved in using open data for social impact check out [Data for Democracy](https://datafordemocracy.org/)
