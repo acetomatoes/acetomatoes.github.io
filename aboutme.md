@@ -6,12 +6,12 @@ subtitle: "I'm with the Ace Tomato Company"
 
 In a nutshell:
 - General Nerdsmith
-- R enthusiast
+- R enthusiast, Python convert
 - Open Data miner
 - Book lover
 - Work: analytics consulting
 - Columbia University graduate in Neuroscience and Statistics
-- Brooklyn, NY (I can't grow a decent mustache, though)
+- Brooklyn, NY
 - If you get the ace tomato reference we could probably be best friends
 
 If you're interested in getting involved in using open data for social impact check out [Data for Democracy](https://datafordemocracy.org/)
